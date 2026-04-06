@@ -12,7 +12,7 @@ import HelloWorld from "./components/HelloWorld.vue";
       width="125"
       height="125"
     />
-    <h1>Yedam Project</h1>
+    <h1>Yedam Project Test1</h1>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
 
